@@ -1,5 +1,5 @@
 export const CRYPTODEVS_CONTRACT_ADDRESS =
-    "0x289f5D57451D5bF7919277c5D07DdCFC754E9Ab9"
+    "0xc5407C37b00642685364B21511e24bfFc6b270Da"
 export const abi = [
     {
         inputs: [
