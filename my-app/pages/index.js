@@ -1,5 +1,5 @@
 import Head from "next/head"
-import Web3Modal from "web3Modal"
+import Web3Modal from "web3modal"
 import { Contract, utils, providers } from "ethers"
 import { useEffect, useRef, useState } from "react"
 import { CRYPTODEVS_CONTRACT_ADDRESS, abi } from "../constants"
